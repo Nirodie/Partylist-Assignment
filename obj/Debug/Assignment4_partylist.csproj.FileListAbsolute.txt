@@ -1,0 +1,10 @@
+E:\Visual Studio Projects\Assignment4\Assignment4_partylist\bin\Debug\Assignment4_partylist.exe.config
+E:\Visual Studio Projects\Assignment4\Assignment4_partylist\bin\Debug\Assignment4_partylist.exe
+E:\Visual Studio Projects\Assignment4\Assignment4_partylist\bin\Debug\Assignment4_partylist.pdb
+E:\Visual Studio Projects\Assignment4\Assignment4_partylist\obj\Debug\Assignment4_partylist.csprojAssemblyReference.cache
+E:\Visual Studio Projects\Assignment4\Assignment4_partylist\obj\Debug\Assignment4_partylist.MainForm.resources
+E:\Visual Studio Projects\Assignment4\Assignment4_partylist\obj\Debug\Assignment4_partylist.Properties.Resources.resources
+E:\Visual Studio Projects\Assignment4\Assignment4_partylist\obj\Debug\Assignment4_partylist.csproj.GenerateResource.cache
+E:\Visual Studio Projects\Assignment4\Assignment4_partylist\obj\Debug\Assignment4_partylist.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Assignment4\Assignment4_partylist\obj\Debug\Assignment4_partylist.exe
+E:\Visual Studio Projects\Assignment4\Assignment4_partylist\obj\Debug\Assignment4_partylist.pdb
